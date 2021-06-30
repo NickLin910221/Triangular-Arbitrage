@@ -4,7 +4,7 @@ Trading platform : https://www.binance.com/zh-TW/markets
 
 Tradind Fee rate : https://www.binance.com/zh-TW/fee/schedule
 
-Theory
+Theorm
 
 In the deep market with the pair fluctuation in price can make the Arbitrage space.
 
