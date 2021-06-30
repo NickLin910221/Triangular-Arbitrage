@@ -27,8 +27,8 @@ def func():
 
     print(data)
     print("Select want to add pairs or delete pairs")
-    print("1) ADD")
-    print("2) DELETE")
+    print("1)  ADD")
+    print("2)  DELETE")
 
     select = input()
     if select == '1':
