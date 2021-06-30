@@ -29,3 +29,9 @@ If the three pairs taker spread more than 0.180216% will trigger the Arbitrage.
 | VIP 7 | 0.108077% | >= 40000BTC |
 | VIP 8 | 0.090054% | >= 80000BTC |
 | VIP 9 | 0.072034% | >= 150000BTC |
+
+If you think my tools is useful to you, you can donate me cyrpto currency on the following address
+
+BTC : 1EswAgovFXPcbDUeSkYr482jdzsZiCRDCs
+ETH/ETC : 0xbc1090c5934e30a4e9f6e19d9cc3dc629893a0e3
+DOGE : DHHmQiRGjUcY71prEtzV9LSv6mRFc1ddnt
