@@ -1,0 +1,6 @@
+{
+	"url"        : "https://api.binance.com",
+	"api_key"    : "YOUR_API_KEY",
+	"api_secret" : "YOUR_API_SECRET",
+	"Line_token" : "YOUR_LINE_NOTIFY_TOKEN"
+}
